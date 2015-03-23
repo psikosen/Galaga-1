@@ -1,0 +1,5 @@
+# Galaga-1
+My take on a Galaga type game (Java based)
+This is a reverse enginered version of Kyle- baileys implementaion of Gala(Java Based)
+Two classes added Boss and an Enum class to make weapons much easier to add. 
+I also changed a few loops in the project if you want access to the original project .Check kyle-bailey's Galaga
